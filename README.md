@@ -3,10 +3,10 @@
  <h3><b>OBJECT ORIENTED PROGRAMMING</b></h3>
  <p>OOP (Object-Oriented Programming) adalah sebuah pendekatan pemrograman yang berpusat pada objek, di mana data dan perilakunya digabungkan dalam satu unit yang disebut objek. Prinsip-prinsip utama OOP meliputi enkapsulasi (menggabungkan data dan fungsi), pewarisan (mewarisi sifat dari kelas lain), polimorfisme (kemampuan objek untuk memiliki banyak bentuk), dan abstraksi (menyederhanakan sistem dengan menyembunyikan detail yang tidak relevan). OOP memudahkan pengelolaan kode, membuatnya lebih modular, dapat digunakan kembali, dan lebih mudah dipelihara.</p>
 <h4>Komponen Utama Penyusun OOP</h4>
-<p><b>Kelas (Class)</b></p>
+<p><b>1. Kelas (Class)</b></p>
 <p>Blueprint atau cetak biru yang mendefinisikan atribut (data/properties) dan perilaku (metode/functions) dari objek. Kelas adalah template untuk membuat objek.</p>
 
-<p><b>Object</b></p>
+<p><b>2. Object</b></p>
 <p>Instansi dari kelas. Objek memiliki data dan perilaku yang sudah ditentukan oleh kelas, serta dapat berinteraksi dengan objek lain.</p>
 
 <p>Contoh Class dan Object:</p>
@@ -33,7 +33,7 @@
         echo $buku1->tampilkanInfo();
         ?>
 
-<p><b>Enskapsulasi</b></p>
+<p><b>3. Enskapsulasi</b></p>
 <p>Proses membungkus data dan metode yang terkait dalam satu unit, yaitu objek. Enkapsulasi juga melibatkan penyembunyian detail internal objek dari luar (data hiding) dan memberikan akses melalui metode khusus (getter/setter)</p>
 
 <p>Contoh Enskapsulasi</p>
@@ -61,13 +61,13 @@
     ?>
 
 
-<p><b>Abstraksi (Abstraction)</b></p>
+<p><b>4. Abstraksi (Abstraction)</b></p>
 <p>Proses menyembunyikan kompleksitas sistem dengan hanya menampilkan fitur penting dan menyembunyikan detail yang tidak diperlukan. Hal ini memungkinkan fokus pada hal-hal penting tanpa terganggu oleh detail implementasi.</p>
 
-<p><b>Pewarisan (Inheritance)</b></p>
+<p><b>5. Pewarisan (Inheritance)</b></p>
 <p>Mekanisme di mana sebuah kelas dapat mewarisi properti dan metode dari kelas lain. Kelas yang mewariskan disebut superclass, sementara kelas yang mewarisi disebut subclass.</p>
 
-<p><b>Polimorfisme (Polymorphism)</b></p>
+<p><b>6. Polimorfisme (Polymorphism)</b></p>
 <p>Kemampuan objek untuk mengambil berbagai bentuk, biasanya melalui metode overriding dan overloading. Polimorfisme memungkinkan satu metode dapat digunakan untuk berbagai tipe objek, sehingga meningkatkan fleksibilitas program.</p>
 
 # Modul 1
