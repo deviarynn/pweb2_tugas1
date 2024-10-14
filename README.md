@@ -143,7 +143,7 @@
       
 <p>Output yang dihasilkan</p>
 
-![Screenshot (684)](https://github.com/user-attachments/assets/e11b6777-372d-496d-955a-91632f5119d9)
+![Screenshot (684)](https://github.com/user-attachments/assets/174779cf-8943-4aca-b2e3-1a7322199284)
 
 
   -------------------------------------------------------------------------
@@ -235,7 +235,7 @@
 
 <p>Berikut Output yang dihasilkan</p>
 
-![Screenshot (686)](https://github.com/user-attachments/assets/74d1b649-3baa-4cd6-98dc-5fc7b349a7cb)
+![Screenshot (686)](https://github.com/user-attachments/assets/e61c581a-a4e2-4246-af7e-f92511f7d4ed)
 
 ------------------------------------------------------------------------
 <h4>3. Membuat Metode Tambahan</h4>
@@ -335,7 +335,7 @@
 
   <p>Berikut Output yag dihasilkan</p>
 
-   ![Screenshot 2024-08-29 142109](https://github.com/user-attachments/assets/09f45794-5e5d-41cb-af53-08a06790858d)
+![Screenshot (699)](https://github.com/user-attachments/assets/eaa8a29a-8fff-47f3-ac03-0c20a52e9e3c)
    
   -----------------------------------------------------------------------
  <h4>4. Penggunaan Atribut dan Metode</h4>
@@ -425,7 +425,7 @@
 
 <p>Berikut Output hasilnya</p>
 
-![Screenshot (687)](https://github.com/user-attachments/assets/12d85702-4ff8-45c9-9c6a-c2bddada1f94)
+![Screenshot (687)](https://github.com/user-attachments/assets/ec3584b4-691c-445f-9ecd-421a3499fa1f)
 
 -------------------------------------------------------------------------
 <h3>Tugas Modul 1</h3>
@@ -502,7 +502,7 @@
 
   <p>Berikut Output hasilnya</p>
 
-![Screenshot (688)](https://github.com/user-attachments/assets/0372c1b5-40f8-4c04-9c54-53d726c92883)
+![Screenshot (688)](https://github.com/user-attachments/assets/6195b261-52e1-4472-98ea-6c2e591929f3)
 
    ----------------------------------------
   # Modul 2
@@ -585,7 +585,7 @@ Di Metode construct dalam class mahasiswa kita menset tiga parameter yaitu nama,
    
  <p>Berikut Output hasilnya</p>
 
-   ![Screenshot (689)](https://github.com/user-attachments/assets/e56eddbc-45ec-465e-ad12-5e28a1e0781f)
+![Screenshot (689)](https://github.com/user-attachments/assets/7c6adf11-254f-4054-97a9-1a65583283f7)
 
  -----------------------------------------
 <h4>2. Encaplusation</h4>
@@ -742,7 +742,7 @@ Di Metode construct dalam class mahasiswa kita menset tiga parameter yaitu nama,
 
  <p>Berikut Output Hasilnya</p>
 
-![Screenshot (690)](https://github.com/user-attachments/assets/94a8f5e3-1033-446e-8a92-b52479919316)
+![Screenshot (690)](https://github.com/user-attachments/assets/9cb1f374-58d3-40fe-a09c-4c5ed948c9b6)
     
 -----------------------------------------------------------------
 <h4>3. Inheritance</h4>
@@ -848,7 +848,7 @@ Di Metode construct dalam class mahasiswa kita menset tiga parameter yaitu nama,
 
  <p>Berikut Outputnya</p>
  
- ![Screenshot (691)](https://github.com/user-attachments/assets/b4ffd70e-0d5c-4775-ae43-db3cd326addc)
+![Screenshot (691)](https://github.com/user-attachments/assets/7f9d6118-bf7c-43f4-8544-b9200b0d62b5)
 
  -------------------------------------------------------------
  <h4>4. Polymorphism</h4>
@@ -994,7 +994,7 @@ $mahasiswa = new Mahasiswa("vava", "111"): Membuat instance (objek) baru dari cl
 
  <p>Berikut Outputnya</p>
 
-![Screenshot (692)](https://github.com/user-attachments/assets/01721572-ea64-408c-8492-36806a6ae51a)
+![Screenshot (692)](https://github.com/user-attachments/assets/4a24ca78-428a-483c-abb8-62b4d09f76b2)
 
 ---------------------------------------------------------------
 <h4>5. Abstraction</h4>
@@ -1088,7 +1088,7 @@ $mahasiswa = new Mahasiswa("vava", "111"): Membuat instance (objek) baru dari cl
 
 <p>Berikut Outputnya</p>
 
-![Screenshot (693)](https://github.com/user-attachments/assets/893ffdea-9ec6-49fe-a855-d8ff29e097a3)
+![Screenshot (693)](https://github.com/user-attachments/assets/9000d270-9a25-49e7-8413-194fbb2dd4ce)
 
 ---------------------------------------------------------------------------
 # Modul 3
@@ -1200,7 +1200,7 @@ $mahasiswa = new Mahasiswa("vava", "111"): Membuat instance (objek) baru dari cl
        
 <p>Berikut Outputnya</p>
 
-![Screenshot (694)](https://github.com/user-attachments/assets/b53ddf8b-a326-41a1-800d-734bde656f44)
+![Screenshot (694)](https://github.com/user-attachments/assets/40554a09-4c20-4a64-ae0f-fbc000a1babe)
 
 ----------------------------------------------------
 <p>2. Polymorphism </p>
@@ -1361,7 +1361,7 @@ $mahasiswa = new Mahasiswa("vava", "111"): Membuat instance (objek) baru dari cl
 
 <p>Berikut Outputnya</p>
 
-![Screenshot (695)](https://github.com/user-attachments/assets/85f0c85b-0ab5-40df-872d-b54dcbb41d51)
+![Screenshot (695)](https://github.com/user-attachments/assets/2e0aca36-6651-420b-8f32-dc8e7fb0103b)
 
 ---------------------------------------------------------------------------------------------------------------
 
@@ -1493,7 +1493,7 @@ private $name dan private $studentID merupakan dua properti yang dideklarasikan 
 
 <p>Berikut Outputnya</p>
 
-![Screenshot (696)](https://github.com/user-attachments/assets/bd026feb-597e-4912-bde3-d735f34387b9)
+![Screenshot (696)](https://github.com/user-attachments/assets/c53a2cca-134c-4347-a77d-fe3e49beb9e8)
 
 --------------------------------------------------------
 <h4>4. Abstraction</h4>
@@ -1628,7 +1628,7 @@ echo $offline->getCourseDetails(): Memanggil metode getCourseDetails() dari obje
 
 <p>Berikut Outputnya</p>
 
-![Screenshot (697)](https://github.com/user-attachments/assets/4cdfff59-e376-41f0-9cc2-587744cd78b7)
+![Screenshot (697)](https://github.com/user-attachments/assets/710d681a-0a65-4025-9b4b-fb422ded927a)
 
 -------------------------------------------------------------
 <h4>Tugas 3</h4>
@@ -1930,4 +1930,4 @@ echo $mahasiswa1->getJurnal() . "<br>"; Menampilkan detail jurnal mahasiswa.</p>
 
 <p>Berikut Outputnya</p>
 
-![Screenshot (698)](https://github.com/user-attachments/assets/99e149aa-3b1c-4d29-94ea-73b88bc72a84)
+![Screenshot (698)](https://github.com/user-attachments/assets/d7645bcb-d2a8-4909-acf6-0bd4674160c5)
