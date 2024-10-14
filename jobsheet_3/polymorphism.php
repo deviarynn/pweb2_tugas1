@@ -56,7 +56,7 @@ $teacher = new Teacher("deandra", "133");
 $student = new Student("caca", "221");
 
 //Menampilkan hasil dari metode getName
-echo $teacher->getName() . "<br>"; //output Student: yuyu
-echo $student->getName(); //output Student: roro
+echo $teacher->getName() . "<br>"; //output Student: deandra
+echo $student->getName(); //output Student: caca
 
 ?>
