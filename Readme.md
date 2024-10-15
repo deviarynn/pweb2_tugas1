@@ -1,7 +1,5 @@
 # Pweb2-tugas1
-# Pembuatan Class dan Objek
-
-<h3><b>OBJECT ORIENTED PROGRAMMING</b></h3>
+# OBJECT ORIENTED PROGRAMMING
  <p>OOP (Object-Oriented Programming) adalah sebuah pendekatan pemrograman yang berpusat pada objek, di mana data dan perilakunya digabungkan dalam satu unit yang disebut objek. Prinsip-prinsip utama OOP meliputi enkapsulasi (menggabungkan data dan fungsi), pewarisan (mewarisi sifat dari kelas lain), polimorfisme (kemampuan objek untuk memiliki banyak bentuk), dan abstraksi (menyederhanakan sistem dengan menyembunyikan detail yang tidak relevan). OOP memudahkan pengelolaan kode, membuatnya lebih modular, dapat digunakan kembali, dan lebih mudah dipelihara.</p>
 
 ## KOMPONEN DI DALAM OOP
