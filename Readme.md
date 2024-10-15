@@ -159,8 +159,8 @@ $this->jurusan = $jurusan;
 $mahasiswa = new Mahasiswa("depii", "230102057", "jkb");
 ```
 
-<p>Object : $mahasiswa adalah objek yang merupakan instansiasi dari kelas mahasiswa.</p>
-<p>Pada objek yang baru dibuat yaitu $mahasiswa memberikan nilai atau value pada setiap property yang ada pada kelas mahasiswa</p>
+- Object : $mahasiswa adalah objek yang merupakan instansiasi dari kelas mahasiswa.
+- Pada objek yang baru dibuat yaitu $mahasiswa memberikan nilai atau value pada setiap property yang ada pada kelas mahasiswa
 
 ```php
     //menampilkan isi hasil data dari method tampilkanData
@@ -253,15 +253,15 @@ $mahasiswa = new Mahasiswa("depii", "230102057", "jkb");
     $mahasiswa = new Mahasiswa("depii", "230102057", "jkb");
 ```
 
-  <p>Object : $mahasiswa adalah objek yang merupakan instansiasi dari kelas mahasiswa.</p>
-  <p>Pada objek yang baru dibuat yaitu $mahasiswa memberikan nilai atau value pada setiap property yang ada pada kelas mahasiswa</p>
+- Object : $mahasiswa adalah objek yang merupakan instansiasi dari kelas mahasiswa.
+- Pada objek yang baru dibuat yaitu $mahasiswa memberikan nilai atau value pada setiap property yang ada pada kelas mahasiswa
 
 ```php
     //untuk mengupdate jurusan 
     $mahasiswa->updateJurusan("ti");
 ```
-<p>Method updateJurusan digunakan untuk mengupdate jurusan dari objek $mahasiswa</
-<p>Kode ini untuk memanggil method updateJurusan dan mengubah isi pada property jurusan yang sudah di isi sebelumnya dari "jkb" menjadi "ti"</p>
+- Method updateJurusan digunakan untuk mengupdate jurusan dari objek $mahasiswa
+- Kode ini untuk memanggil method updateJurusan dan mengubah isi pada property jurusan yang sudah di isi sebelumnya dari "jkb" menjadi "ti".
 
 ```php
     //menampilkan isi hasil data dari method tampilkanData
@@ -343,15 +343,16 @@ Metode setter ini akan mengatur nilai property nim dari objek mahasiswa
     $mahasiswa = new Mahasiswa("deviiaryn", "230102057", "jkb");
 ```
 
-<p>Object : $mahasiswa adalah objek yang merupakan instansiasi dari kelas mahasiswa.</p>
-<p>Pada objek yang baru dibuat yaitu $mahasiswa memberikan nilai atau value pada setiap property yang ada pada kelas mahasiswa</p>
+- Object : $mahasiswa adalah objek yang merupakan instansiasi dari kelas mahasiswa.
+- Pada objek yang baru dibuat yaitu $mahasiswa memberikan nilai atau value pada setiap property yang ada pada kelas mahasiswa
 
 ```php
      //untuk men set nilai property ($nama_object->nama_property=nilai)
      $mahasiswa->setNim("123");
 ```
-<p>Setelah itu nilai property nim pada objek $mahasiswa akan berubah menjadi "123"
-  <p>Kode diatas akan memanggil metode setNim pada objek $mahasiswa dan menetapkan nilai "123" sebagail nilai dari property nim</p>
+
+- Setelah itu nilai property nim pada objek $mahasiswa akan berubah menjadi "123".
+- Kode diatas akan memanggil metode setNim pada objek $mahasiswa dan menetapkan nilai "123" sebagail nilai dari property nim
 
 ```php
     //menampilkan isi hasil data dari method tampilkanData
