@@ -101,7 +101,7 @@ $mahasiswa->jurusan = "jkb";
 ```
 #### Output yang dihasilkan
 
-![alt text](<Screenshot (684).png>)
+![Screenshot (684)](https://github.com/user-attachments/assets/df433718-72df-4190-8ded-82f8a657cd38)
 
 #### 2. Implementasi Constructor
 
@@ -200,7 +200,7 @@ $mahasiswa = new Mahasiswa("depii", "230102057", "jkb");
     ?>
 ```
 #### Output yang dihasilkan
-![alt text](<Screenshot (686)-1.png>)
+![Screenshot (686)](https://github.com/user-attachments/assets/fbcaafbe-b06b-4eed-a40a-e95d4dc02548)
 
 ### 3. Membuat Metode Tambahan
 -Definisi class Mahasiswa
@@ -310,7 +310,7 @@ $mahasiswa = new Mahasiswa("depii", "230102057", "jkb");
 ```
 
 #### Hasil Outputnya:
-![alt text](<Screenshot (699).png>)
+![Screenshot (699)](https://github.com/user-attachments/assets/256ecb8b-3a13-4b35-b16b-9c6b8459d779)
 
 ### 4. Penggunaan Atribut dan Metode
 -Definisi class Mahasiswa
@@ -408,7 +408,7 @@ Metode setter ini akan mengatur nilai property nim dari objek mahasiswa
 
 #### Berikut Output hasilnya
 
-![alt text](<Screenshot (687).png>)
+![Screenshot (687)](https://github.com/user-attachments/assets/ad02e06d-11c5-4773-87b2-5572222676da)
 
 -------------------------------------------------------------------------------------
 
@@ -502,7 +502,7 @@ Bagian ini mengembalikan string yang berisi data dari property $nama, $nip, $mat
 
 #### Berikut Output hasilnya
 
-![alt text](<Screenshot (688).png>)
+![Screenshot (688)](https://github.com/user-attachments/assets/174337d9-4b8c-466b-801d-02cbda0bd65d)
    -------------------------------------------------------------
 
 # Modul 2
@@ -595,7 +595,7 @@ Bagian ini mengembalikan string yang berisi data dari property $nama, $nip, $mat
    
 #### Berikut Output hasilnya:
 
-![alt text](<Screenshot (689).png>)
+![Screenshot (689)](https://github.com/user-attachments/assets/57d0fb0a-6ddf-499b-93fc-c59276642427)
  --------------------------------------------------------------------------
 
 <h4>2. Encaplusation</h4>
@@ -766,8 +766,8 @@ Bagian ini mengembalikan string yang berisi data dari property $nama, $nip, $mat
 
 #### Berikut Output Hasilnya:
 
-![alt text](<Screenshot (690).png>)    
---------------------------------------------------------------------------------------------------------
+![Screenshot (690)](https://github.com/user-attachments/assets/d95c8dfd-5623-4044-a234-b51eb6a5c6a5)
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 <h4>3. Inheritance</h4>
 <p>-Definisi class Pengguna</p>
@@ -887,7 +887,8 @@ Bagian ini mengembalikan string yang berisi data dari property $nama, $nip, $mat
 
 #### Berikut Outputnya:
  
-![alt text](<Screenshot (691).png>)
+![Screenshot (691)](https://github.com/user-attachments/assets/72bcf2c0-a85a-4556-95c9-f1c10200753a)
+
  ------------------------------------------------------------------------------------------------
 
  <h4>4. Polymorphism</h4>
@@ -1047,7 +1048,8 @@ Bagian ini mengembalikan string yang berisi data dari property $nama, $nip, $mat
 
 #### Berikut Outputnya:
 
-![alt text](<Screenshot (692).png>)
+![Screenshot (692)](https://github.com/user-attachments/assets/c64cc32d-e606-4aab-b325-a63951d08c7e)
+
 ---------------------------------------------------------------------------------------------------------
 
 <h4>5. Abstraction</h4>
@@ -1152,7 +1154,8 @@ Bagian ini mengembalikan string yang berisi data dari property $nama, $nip, $mat
 ```
 #### Berikut Outputnya:
 
-![alt text](<Screenshot (693).png>)
+![Screenshot (693)](https://github.com/user-attachments/assets/aefdd69b-54e4-4e82-b284-9771652133e0)
+
 -----------------------------------------------------------------------------------------------------
 # Modul 3
 # Jobsheet 3
@@ -1277,7 +1280,8 @@ Bagian ini mengembalikan string yang berisi data dari property $nama, $nip, $mat
 
 #### Berikut Outputnya:
 
-![alt text](<Screenshot (694).png>)
+![Screenshot (694)](https://github.com/user-attachments/assets/fe8be791-4551-4782-aa2f-ade790ced442)
+
 -----------------------------------------------------------------------------------------
 
 <p>2. Polymorphism </p>
@@ -1456,7 +1460,8 @@ Bagian ini mengembalikan string yang berisi data dari property $nama, $nip, $mat
 
 #### Berikut Outputnya:
 
-![alt text](<Screenshot (695).png>)
+![Screenshot (695)](https://github.com/user-attachments/assets/b0d7a1be-edcf-409d-81d4-ec6c2517472f)
+
 ---------------------------------------------------------------------------------------------------------------
 
 <h4>3. Encapsulation</h4>
@@ -1599,7 +1604,8 @@ Mendefinisikan sebuah class Student.
 
 #### Berikut Outputnya:
 
-![alt text](<Screenshot (696).png>)
+![Screenshot (696)](https://github.com/user-attachments/assets/7ff4da63-9978-427c-8bf9-5ff381c9a4c1)
+
 ----------------------------------------------------------------------------------------------------
 
 <h4>4. Abstraction</h4>
@@ -1746,7 +1752,8 @@ Mendefinisikan sebuah class Student.
 
 #### Berikut Outputnya:
 
-![alt text](<Screenshot (697).png>)
+![Screenshot (697)](https://github.com/user-attachments/assets/f117f32b-d2a8-450b-af55-13f530177c96)
+
 ---------------------------------------------------------------------------------------------------------------
 
 <h4>Tugas 3</h4>
@@ -2076,4 +2083,4 @@ Metode ini mengembalikan string "Data lengkap". Ini adalah metode umum yang dapa
 
 #### Berikut Outputnya:
 
-![alt text](<Screenshot (698).png>)
+![Screenshot (698)](https://github.com/user-attachments/assets/d835168d-68b8-4164-b941-21cdd64fc6f5)
